@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinH2810
-- 👀 I’m interested in Blockchain, AI or any interesting things
+- 👀 I’m interested in Blockchain, AI, Sing, Solidity, etc
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: email me on kevinhadisutanto@gmail.com
