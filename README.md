@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: email me on kevinhadisutanto@gmail.com
 
-## TECH USED
+## TECH I USE
 
 - WEB3
 - TYPESCRIPT
