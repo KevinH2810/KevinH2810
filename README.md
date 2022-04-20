@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Svartt Katt
+- 👋 Hei, jeg er en svart katt
 - 👀 I’m interested in Blockchain, AI, Sing, Solidity, etc
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any interesting projects
