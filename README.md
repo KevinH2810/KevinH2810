@@ -1,5 +1,5 @@
 - 👋 Hei, jeg er en svart katt
-- 👀 I’m interested in Blockchain, AI, Sing, Solidity, etc
+- 👀 I’m interested in Blockchain, Ai, Music, Solidity, etc
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: email me on kevinhadisutanto@gmail.com
