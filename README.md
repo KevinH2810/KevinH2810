@@ -1,4 +1,4 @@
-- 👋 Hei, jeg er en svart katt
+- 👋 Hei, you can call me Kevin
 - 👀 I’m interested in Blockchain, Music, Solidity, etc
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any interesting projects
