@@ -1,20 +1,27 @@
-- 👋 Hei, you can call me Kevin
-- 👀 I’m interested in Blockchain, Music, Solidity, etc
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me: email me on kevinhadisutanto@gmail.com
+Hi, you can call me Kevin 👋
 
-## TECH I USE
+I’m a backend engineer transitioning into data analytics.
+Currently focusing on learning how to explore data, validate assumptions, and communicate insights through analysis.
 
-- NODE JS
-- SOLIDITY
-- WEB3
-- TYPESCRIPT
-- MORALIS
-- ETHER JS
-- WEB3
+Right now, most of my work involves Python, SQL, and exploratory data analysis using real-world datasets.
 
-<!---
-KevinH2810/KevinH2810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Current Focus
+- Data analysis with Python (Pandas)
+- SQL for data exploration
+- Writing clear analysis reports
+- Publishing work on Kaggle and GitHub
+
+---
+
+### Highlighted Project
+**Olist E-commerce Data Analysis**  
+An ongoing analysis project exploring delivery performance and data quality using the Brazilian Olist dataset.
+
+Repo: https://github.com/KevinH2810/olist-data-quality-and-analytics  
+Kaggle: https://www.kaggle.com/kevinh28
+
+---
+
+📫 Contact: kevinhadisutanto@gmail.com
